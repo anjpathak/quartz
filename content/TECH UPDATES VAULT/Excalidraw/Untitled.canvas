@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"4b35538e1fd89a8c","type":"file","file":"Excalidraw/Ecommerce App.md","x":-700,"y":-600,"width":400,"height":600},
-		{"id":"e45fb27ce4b25bbf","type":"text","text":"Client","x":-220,"y":-600,"width":485,"height":430}
-	],
-	"edges":[]
-}
